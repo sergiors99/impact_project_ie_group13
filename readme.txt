@@ -12,9 +12,8 @@ Ethics Statement:
 
 We run the files in the following order:
 
-1. ReadFiles
-2. EDA MacroTable
-3. EDA JobOrder Clustering
-4. clustering_kmeans or clustering_dbscan (we decided to use kmeans)
-5. Forecasting Final
-6. MadeToStock
+1. EDA MacroTable
+2. EDA JobOrder Clustering
+3. clustering_kmeans or clustering_dbscan (we decided to use kmeans)
+4. Forecasting Final
+5. MadeToStock
